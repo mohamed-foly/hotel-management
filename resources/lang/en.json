@@ -1,0 +1,6 @@
+{
+    "messages.updated":":model updated successfully",
+    "messages.not_found":"Not found",
+    "messages.found":"Found",
+    "messages.saved":"Saved successfully"
+}
